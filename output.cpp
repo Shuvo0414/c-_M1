@@ -23,7 +23,7 @@ int main()
     // std :: cout << dd << std :: endl << cc; 
     // std::printf("%.4f\n", dd);
 
-    // std:: cout << "Hello\nC++"; // i can also use new line like that.
+    std:: cout << "Hello\nC++"; // i can also use new line like that.
 
     
 
